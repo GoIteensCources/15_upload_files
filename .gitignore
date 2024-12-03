@@ -1,0 +1,5 @@
+.env
+upload_files
+__pycache__
+.idea
+logs
