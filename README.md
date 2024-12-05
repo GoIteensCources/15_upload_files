@@ -4,4 +4,6 @@ FastAPI дозволяє легко обробляти завантажені ф
 
 ## Documentation
 
-[Fastapi request files](https://fastapi.tiangolo.com/tutorial/request-files/#file-parameters-with-uploadfile)
+- [Fastapi request files](https://fastapi.tiangolo.com/tutorial/request-files/#file-parameters-with-uploadfile)
+
+ - [Pillow](https://pillow.readthedocs.io/en/stable/handbook/tutorial.html)
